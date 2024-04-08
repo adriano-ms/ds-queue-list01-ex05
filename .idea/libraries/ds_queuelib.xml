@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ds-queuelib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ds-queuelib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
